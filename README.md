@@ -1,2 +1,2 @@
 # dcm_anonymize
-Simple script to anonymeze dicom imagen with ruby-dicom
+Simple script to anonymize dicom imagen with ruby-dicom
